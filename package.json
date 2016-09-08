@@ -1,0 +1,23 @@
+{
+  "name": "nodeJS",
+  "version": "1.0.0",
+  "description": "Convert CSV file to JSON file then use handlebars to merge JSON file with template",
+  "main": "CSVtoJSON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorFung1/nodeJS.git"
+  },
+  "keywords": [],
+  "author": "Victor Fung <victor.fung122@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorFung1/nodeJS/issues"
+  },
+  "homepage": "https://github.com/VictorFung1/nodeJS#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  }
+}
